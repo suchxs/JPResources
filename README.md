@@ -12,7 +12,8 @@ List of Resources I used while on my path to N1
 
 
 <p align="center">
-Start date: 9/16/25 (Date that I started taking studying seriously)
+Start date: 9/16/25 (Date that I started taking studying seriously) <br>
+Current Level: N5
 
 
 </p>
