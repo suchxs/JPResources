@@ -1,5 +1,5 @@
 <h2 align="center">
-"Wasurete Yaranai" (忘れてやらない, lit. "Never Forget"), also known as "I Will Never Forget!"
+"Wasurete Yaranai" (忘れてやらない, lit. "Never Forget")
 </h1>
 
 <h3 align="center">
