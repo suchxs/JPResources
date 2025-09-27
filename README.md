@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-Full List of Resources I used while on my path to N1 <br>
+Comprehensive List of Resources I used while learning Japanese <br>
 
 <br>
 <img width=400 src="https://github.com/saint-jp/saint-jp/assets/29249322/0dbd3bde-87f1-4cf7-9974-97cddcdc28cf" />
@@ -22,6 +22,14 @@ Full List of Resources I used while on my path to N1 <br>
 - [DeepL](https://www.deepl.com/en/translator) - Better Google Translate
 - [Jpdb](https://jpdb.io/) - Very powerful SRS based dictionary and resource
 - [Numbers Practice](https://langpractice.com/japanese) - Practice learning the Japanese Numbering System
+- [Kotu.io](https://kotu.io/) - Make Anki Cards on Japanese Youtube Videos
+- [Furigana.info](https://furigana.info/) - Tool to find out which pronunciation is more popular
+- [Tatoeba](https://tatoeba.org/en/) - Find out how to use specific words in a sentence
+- [Forvo](https://forvo.com/) - Practice Hearing and accents
+- [CDrill](https://wkdonc.github.io/conjugation/drill.html) - Conjugation Drill (Basically for grammar, dont tick polite before everything else)
+- [Nyaa](https://nyaa.si/) - Watch Raw Anime
+- [Ajatt-Tools](https://github.com/Ajatt-Tools/kitsunekko-mirror) - Find Raw Anime Subtitle Files
+
 
 <h3>
   My Anki Decks and Addons
@@ -36,7 +44,7 @@ Full List of Resources I used while on my path to N1 <br>
 - [Review Heatmap](https://ankiweb.net/shared/info/1771074083) - Addon to Add Github style heatmap to Anki
 
 <h3>
-  Mobile Apps I use
+  Mobile Apps I use (IOS)
 </h3>
 
 - [Kana](https://apps.apple.com/us/app/kana-hiragana-and-katakana/id1454200955) - For learning Hiragana and Katakana
@@ -56,6 +64,7 @@ Full List of Resources I used while on my path to N1 <br>
 - [Donkuri](https://donkuri.github.io/learn-japanese/) - Good Guide on how to immerse
 - [Novel Reading List](https://jpdb.io/novel-difficulty-list) - Very cool database of japanese novels ranked based on their kanji difficulty
 - [Japanese VN Setup](https://learnjapanese.moe/vn/) - Guide on how to learn japanese from VN's (Visual Novel Games)
+- [Media Recommendations](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/edit?gid=2065345633#gid=2065345633) - Manga recommendations ranked on their kanji difficulty
 
 ---
 
@@ -73,7 +82,8 @@ Full List of Resources I used while on my path to N1 <br>
 - [Bilinguis](http://bilinguis.com/) - Free Bilingual Books (EN - JP)
 - [Tadoku](https://tadoku.org/japanese/en/free-books-en/) - Free Japanese Books for learning
 - [ClozeMaster](https://www.clozemaster.com/) - Gamify Japanese Learning
-
+- [YouGlish](https://youglish.com/japanese) - Practice Japanese Pronounciation and find specific words on Japanese Youtube Videos
+- [Subs2srs](https://subs2srs.sourceforge.net/) - Japanese Text Analysis Tool, Easily make anki cards from videos
 ---
 
 <br>
