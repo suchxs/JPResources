@@ -11,7 +11,7 @@ Comprehensive List of Resources I used while learning Japanese <br>
 
 ---
 <h3>
-  Tools I personally use
+  Tools I personally use (Highly recommend using these)
 </h3>
 
 - [Anki](https://apps.ankiweb.net/) - A powerful flashcard SRS App
@@ -94,7 +94,7 @@ Comprehensive List of Resources I used while learning Japanese <br>
  I currently do not use any textbooks
 </h4>
 <p align="center">
-Start date: 9/27/25 (Date that I started taking studying seriously) <br>
+Start date: 9/29/25 (Date that I started taking studying seriously) <br>
 Current Level: N5-ish -> N4
 
 
