@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-Comprehensive List of Resources I used while learning Japanese <br>
+Updated Comprehensive List of Resources that I use while learning Japanese <br>
 
 <br>
 <img width=400 src="https://github.com/saint-jp/saint-jp/assets/29249322/0dbd3bde-87f1-4cf7-9974-97cddcdc28cf" />
@@ -29,6 +29,7 @@ Comprehensive List of Resources I used while learning Japanese <br>
 - [CDrill](https://wkdonc.github.io/conjugation/drill.html) - Conjugation Drill (Basically for grammar, dont tick polite before everything else)
 - [Nyaa](https://nyaa.si/) - Watch Raw Anime
 - [Ajatt-Tools](https://github.com/Ajatt-Tools/kitsunekko-mirror) - Find Raw Anime Subtitle Files
+- [BookMeter](https://bookmeter.com/) - Get Japanese Book and Manga Reviews
 
 
 <h3>
