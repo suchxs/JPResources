@@ -14,11 +14,12 @@ Updated Comprehensive List of Resources that I use while learning Japanese <br>
   Tools I personally use (Highly recommend using these)
 </h3>
 
-- [Anki](https://apps.ankiweb.net/) - A powerful flashcard SRS App
+- [Anki](https://apps.ankiweb.net/) - A powerful flashcard SRS App, **A Must have**
 - [Yomitan](https://yomitan.wiki/) - A Chrome extension to look up words in the dictionary
 - [Migaku](https://migaku.com/) - Powerful tool for vocab mining and dictionary lookup for Japanese Subtitles
 - [BunPro](https://bunpro.jp/) - Japanese Grammar and Vocabulary
-- [Jisho](https://jisho.org/) - Best Japanese-English dictionary
+- [Obsidian](https://obsidian.md/) - Note tracker using the Zettelkasten Idea, **Highly Recommend buying Obsidian Plus!**
+- [Jisho](https://jisho.org/) - Best Japanese-English dictionary, **A Must have**
 - [DeepL](https://www.deepl.com/en/translator) - Better Google Translate
 - [Jpdb](https://jpdb.io/) - Very powerful SRS based dictionary and resource
 - [Numbers Practice](https://langpractice.com/japanese) - Practice learning the Japanese Numbering System
