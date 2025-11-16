@@ -96,7 +96,7 @@ Updated Comprehensive List of Resources that I use while learning Japanese <br>
  I currently do not use any textbooks
 </h4>
 <p align="center">
-Start date: 10/09/25 (Date that I started taking studying seriously fr fr no cap) <br>
+Start date: 11/16/25 <br>
 Current Level: N5-ish -> N4
 
 
