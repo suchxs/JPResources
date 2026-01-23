@@ -4,71 +4,77 @@
 
 <h3 align="center">
 Updated Comprehensive List of Resources that I use while learning Japanese <br>
-
 <br>
 <img width=400 src="https://github.com/saint-jp/saint-jp/assets/29249322/0dbd3bde-87f1-4cf7-9974-97cddcdc28cf" />
 </h3>
+
+<h4 align="center">
+   Resources marked with a ⭐ mean I use it a lot and Highly Recommend it
+</h4>
 
 ---
 <h3>
   Tools I personally use (Highly recommend using these)
 </h3>
 
-- [Anki](https://apps.ankiweb.net/) - A powerful flashcard SRS App, **A Must have**
-- [Yomitan](https://yomitan.wiki/) - A Chrome extension to look up words in the dictionary
+- [Anki](https://apps.ankiweb.net/) - A powerful flashcard SRS App, **A Must have** ⭐
+- [Yomitan](https://yomitan.wiki/) - A Chrome extension to look up words in the dictionary ⭐
 - [Migaku](https://migaku.com/) - Powerful tool for vocab mining and dictionary lookup for Japanese Subtitles
-- [BunPro](https://bunpro.jp/) - Japanese Grammar and Vocabulary
-- [Obsidian](https://obsidian.md/) - Note tracker using the Zettelkasten Idea, **Highly Recommend buying Obsidian Plus!**
-- [Jisho](https://jisho.org/) - Best Japanese-English dictionary, **A Must have**
-- [DeepL](https://www.deepl.com/en/translator) - Better Google Translate
-- [Jpdb](https://jpdb.io/) - Very powerful SRS based dictionary and resource
+- [BunPro](https://bunpro.jp/) - Japanese Grammar and Vocabulary ⭐
+- [Obsidian](https://obsidian.md/) - Note tracker using the Zettelkasten Idea, **Highly Recommend buying Obsidian Plus!** ⭐
+- [Jisho](https://jisho.org/) - Best Japanese-English dictionary, **A Must have** ⭐
+- [DeepL](https://www.deepl.com/en/translator) - Better Google Translate ⭐
+- [Jpdb](https://jpdb.io/) - Very powerful SRS based dictionary and resource ⭐
 - [Numbers Practice](https://langpractice.com/japanese) - Practice learning the Japanese Numbering System
 - [Kotu.io](https://kotu.io/) - Make Anki Cards on Japanese Youtube Videos
 - [Furigana.info](https://furigana.info/) - Tool to find out which pronunciation is more popular
-- [Tatoeba](https://tatoeba.org/en/) - Find out how to use specific words in a sentence
+- [Tatoeba](https://tatoeba.org/en/) - Find out how to use specific words in a sentence ⭐
 - [Forvo](https://forvo.com/) - Practice Hearing and accents
 - [CDrill](https://wkdonc.github.io/conjugation/drill.html) - Conjugation Drill (Basically for grammar, dont tick polite before everything else)
-- [Nyaa](https://nyaa.si/) - Watch Raw Anime
+- [Nyaa](https://nyaa.si/) - Watch Raw Anime ⭐
 - [Ajatt-Tools](https://github.com/Ajatt-Tools/kitsunekko-mirror) - Find Raw Anime Subtitle Files
-- [subs.md](https://gist.github.com/tatsumoto-ren/78ba4e5b7c53c7ed2c987015fa05cc2b) - Really good Detailed List of Raw Anime Subtitle Resources
-- [BookMeter](https://bookmeter.com/) - Get Japanese Book and Manga Reviews
-- [AsbPlayer](https://github.com/killergerbah/asbplayer) - Good tool for Subtitle Sentence Mining (Pair with Raw Subs and Yomitan)
+- [subs.md](https://gist.github.com/tatsumoto-ren/78ba4e5b7c53c7ed2c987015fa05cc2b) - Really good Detailed List of Raw Anime Subtitle Resources ⭐
+- [Jimaku](https://jimaku.cc/) - Another Raw Sub Website ⭐
+- [BookMeter](https://bookmeter.com/) - Get Japanese Book and Manga Reviews ⭐
+- [AsbPlayer](https://github.com/killergerbah/asbplayer) - Good tool for Subtitle Sentence Mining (Pair with Raw Subs and Yomitan) ⭐
+- [AniMixPlay](https://animixplay.fun/) - Anime Site that is Compatible with AsbPlayer (Turn off English Subs) ⭐
+- [NihongoDera](https://nihongodera.com/tools/furigana-maker) - Make Furigana Text for Anki Cards ⭐
 
 <h3>
   My Anki Decks and Addons
 </h3>
 
-- [Anacreon Core 2.3k V3](https://anacreondjt.gitlab.io/docs/coredeck/) - Main Vocabulary Deck
+- [Anacreon Core 2.3k V3](https://anacreondjt.gitlab.io/docs/coredeck/) - Main Vocabulary Deck ⭐
 - [All in One Kanji Deck (Heisig's RTK Order, 6th edition)](https://ankiweb.net/shared/info/1862058740) - Harder Kanji dedicated deck
 - [VectorMaps](https://ankiweb.net/shared/info/2080271721) - Deck configured to the Regions and prefectures of Japan
 - [Usagi Kanji Phonetics](https://drive.google.com/file/d/1xyynMQiOuqlC_cBBTwG9t3snRubHqU7e/view?pli=1) - Kanji Phonetics Deck
-- [Beautify-Anki 2.0](https://ankiweb.net/shared/info/1116770498) - Addon to improve and customize Anki UI
-- [Japanese Support](https://ankiweb.net/shared/info/3918629684) - Addon to add new Japanese-specific note types to Anki
+- [Beautify-Anki 2.0](https://ankiweb.net/shared/info/1116770498) - Addon to improve and customize Anki UI ⭐
+- [Japanese Support](https://ankiweb.net/shared/info/3918629684) - Addon to add new Japanese-specific note types to Anki ⭐
 - [Migaku Anki Add-on](https://ankiweb.net/shared/info/1846879528) - Addon to Sync Migaku to Anki
-- [Review Heatmap](https://ankiweb.net/shared/info/1771074083) - Addon to Add Github style heatmap to Anki
+- [Review Heatmap](https://ankiweb.net/shared/info/1771074083) - Addon to Add Github style heatmap to Anki ⭐
 
 <h3>
   Mobile Apps I use (IOS)
 </h3>
 
-- [Kana](https://apps.apple.com/us/app/kana-hiragana-and-katakana/id1454200955) - For learning Hiragana and Katakana
+- [Kana](https://apps.apple.com/us/app/kana-hiragana-and-katakana/id1454200955) - For learning Hiragana and Katakana ⭐
 - [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380) - Jisho Mobile App
 - [Migii JLPT](https://apps.apple.com/us/app/migii-jlpt-jlpt-test-n5-n1/id1463267540) - Good archive of past JLPT exams
 - [Todaii](https://apps.apple.com/us/app/todaii-learn-japanese-n5-n1/id1107177166) - Read Japanese News at your own level
 - [Pibo](https://apps.apple.com/us/app/pibo-app-bedtime-storytime/id765195011) - Bedtime stories in Japanese (N4 - N5 Only)
 - [Bunpro](https://apps.apple.com/pl/app/bunpro-japanese-srs/id1615337616) - Bunpro Mobile App
-- [NHK WORLD](https://apps.apple.com/us/app/nhk-world-japan/id350732480) - Read Current Japanese News
+- [NHK WORLD](https://apps.apple.com/us/app/nhk-world-japan/id350732480) - Read Current Japanese News ⭐
 
 <h3>
   Useful Resources that I use
 </h3>
 
-- [CureDolly](https://www.youtube.com/@organicjapanesewithcuredol49) - **THE GOAT** For Japanese Grammar !!
-- [TheMoeWay](https://learnjapanese.moe/guide/) - Very useful guide for how and where to start learning Japanese
+- [CureDolly](https://www.youtube.com/@organicjapanesewithcuredol49) - **THE GOAT** For Japanese Grammar !! ⭐
+- [TheMoeWay](https://learnjapanese.moe/guide/) - Very useful guide for how and where to start learning Japanese ⭐
 - [Donkuri](https://donkuri.github.io/learn-japanese/) - Good Guide on how to immerse
-- [Novel Reading List](https://jpdb.io/novel-difficulty-list) - Very cool database of japanese novels ranked based on their kanji difficulty
-- [Japanese VN Setup](https://learnjapanese.moe/vn/) - Guide on how to learn japanese from VN's (Visual Novel Games)
-- [Media Recommendations](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/edit?gid=2065345633#gid=2065345633) - Manga recommendations ranked on their kanji difficulty
+- [Novel Reading List](https://jpdb.io/novel-difficulty-list) - Very cool database of japanese novels ranked based on their kanji difficulty ⭐
+- [Japanese VN Setup](https://learnjapanese.moe/vn/) - Guide on how to learn japanese from VN's (Visual Novel Games) ⭐
+- [Media Recommendations](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/edit?gid=2065345633#gid=2065345633) - Manga recommendations ranked on their kanji difficulty ⭐
 
 ---
 
