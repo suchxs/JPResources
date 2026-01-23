@@ -30,8 +30,9 @@ Updated Comprehensive List of Resources that I use while learning Japanese <br>
 - [CDrill](https://wkdonc.github.io/conjugation/drill.html) - Conjugation Drill (Basically for grammar, dont tick polite before everything else)
 - [Nyaa](https://nyaa.si/) - Watch Raw Anime
 - [Ajatt-Tools](https://github.com/Ajatt-Tools/kitsunekko-mirror) - Find Raw Anime Subtitle Files
+- [subs.md](https://gist.github.com/tatsumoto-ren/78ba4e5b7c53c7ed2c987015fa05cc2b) - Really good Detailed List of Raw Anime Subtitle Resources
 - [BookMeter](https://bookmeter.com/) - Get Japanese Book and Manga Reviews
-
+- [AsbPlayer](https://github.com/killergerbah/asbplayer) - Good tool for Subtitle Sentence Mining (Pair with Raw Subs and Yomitan)
 
 <h3>
   My Anki Decks and Addons
@@ -40,6 +41,7 @@ Updated Comprehensive List of Resources that I use while learning Japanese <br>
 - [Anacreon Core 2.3k V3](https://anacreondjt.gitlab.io/docs/coredeck/) - Main Vocabulary Deck
 - [All in One Kanji Deck (Heisig's RTK Order, 6th edition)](https://ankiweb.net/shared/info/1862058740) - Harder Kanji dedicated deck
 - [VectorMaps](https://ankiweb.net/shared/info/2080271721) - Deck configured to the Regions and prefectures of Japan
+- [Usagi Kanji Phonetics](https://drive.google.com/file/d/1xyynMQiOuqlC_cBBTwG9t3snRubHqU7e/view?pli=1) - Kanji Phonetics Deck
 - [Beautify-Anki 2.0](https://ankiweb.net/shared/info/1116770498) - Addon to improve and customize Anki UI
 - [Japanese Support](https://ankiweb.net/shared/info/3918629684) - Addon to add new Japanese-specific note types to Anki
 - [Migaku Anki Add-on](https://ankiweb.net/shared/info/1846879528) - Addon to Sync Migaku to Anki
@@ -96,7 +98,7 @@ Updated Comprehensive List of Resources that I use while learning Japanese <br>
  I currently do not use any textbooks
 </h4>
 <p align="center">
-Start date: 11/16/25 <br>
+Start date: 1/19/25 <br>
 Current Level: N5-ish -> N4
 
 
