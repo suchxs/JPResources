@@ -39,6 +39,7 @@ Updated Comprehensive List of Resources that I use while learning Japanese <br>
 - [AsbPlayer](https://github.com/killergerbah/asbplayer) - Good tool for Subtitle Sentence Mining (Pair with Raw Subs and Yomitan) ⭐
 - [AniMixPlay](https://animixplay.fun/) - Anime Site that is Compatible with AsbPlayer (Turn off English Subs) ⭐
 - [NihongoDera](https://nihongodera.com/tools/furigana-maker) - Make Furigana Text for Anki Cards ⭐
+- [The Index](https://theindex.moe/) - Collection of Anime Websites and Resources ⭐
 
 <h3>
   My Anki Decks and Addons
