@@ -40,7 +40,9 @@ Updated Comprehensive List of Resources that I use while learning Japanese <br>
 - [AniMixPlay](https://animixplay.fun/) - Anime Site that is Compatible with AsbPlayer (Turn off English Subs) ⭐
 - [NihongoDera](https://nihongodera.com/tools/furigana-maker) - Make Furigana Text for Anki Cards ⭐
 - [The Index](https://theindex.moe/) - Collection of Anime Websites and Resources ⭐
-- [Jiten](https://jiten.moe/) - Really good vocab decks 
+- [Jiten](https://jiten.moe/) - Really good vocab decks
+- [VNDB](https://vndb.org/) - Visual Novel DataBase
+- [GameSentenceMiner](https://github.com/bpwhelan/GameSentenceMiner) - Mine Anki Cards while playing Games ⭐
 
 <h3>
   My Anki Decks and Addons
@@ -77,6 +79,7 @@ Updated Comprehensive List of Resources that I use while learning Japanese <br>
 - [Novel Reading List](https://jpdb.io/novel-difficulty-list) - Very cool database of japanese novels ranked based on their kanji difficulty ⭐
 - [Japanese VN Setup](https://learnjapanese.moe/vn/) - Guide on how to learn japanese from VN's (Visual Novel Games) ⭐
 - [Media Recommendations](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/edit?gid=2065345633#gid=2065345633) - Manga recommendations ranked on their kanji difficulty ⭐
+- [VnClub](https://vnclub.org/guide/) - How to read VN's Guide
 
 ---
 
